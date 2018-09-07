@@ -1,0 +1,14 @@
+Starting react native app
+
+create-react-native-app AwesomeProject
+cd AwesomeProject
+npm install -g react-native-cli
+
+
+
+
+to run project: npm run android
+	runs the project on android emulator
+
+for react navigation:
+	npm install --save react-navigation
