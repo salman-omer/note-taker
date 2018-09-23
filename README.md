@@ -1,3 +1,9 @@
+##WIP
+
+This is a basic project in react native that is meant to be a note taking app. This project is discontinued and incomplete.
+This demonstrates a basic understanding of react native concepts and gave me enough experience to have confidence to make any other potential project in react native.
+
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
